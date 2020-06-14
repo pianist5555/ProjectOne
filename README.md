@@ -21,6 +21,7 @@
 
 <hr>
 
+<h2>WBS, ERD, 유스케이프, 담당기능 PDF</h2>
 <div>
  <img width="200" src ="https://user-images.githubusercontent.com/52395699/84597128-9bc91800-ae9c-11ea-829c-2f361c104d47.PNG">
  <img width="200" src ="https://user-images.githubusercontent.com/52395699/84597130-9cfa4500-ae9c-11ea-9aa3-c6ae95db34f3.PNG">
