@@ -23,12 +23,12 @@
 
 <h2>WBS, ERD, 유스케이프, 담당기능 PDF</h2>
 <div>
- <img width="200" src ="https://user-images.githubusercontent.com/52395699/84597128-9bc91800-ae9c-11ea-829c-2f361c104d47.PNG">
- <img width="200" src ="https://user-images.githubusercontent.com/52395699/84597130-9cfa4500-ae9c-11ea-9aa3-c6ae95db34f3.PNG">
- <img width="200" src ="https://user-images.githubusercontent.com/52395699/84597131-9e2b7200-ae9c-11ea-8e2e-5aeff10ec05a.PNG">
- <img width="200" src ="https://user-images.githubusercontent.com/52395699/84597132-9f5c9f00-ae9c-11ea-8ff9-e798d0f922c8.PNG">
- <img width="200" src ="https://user-images.githubusercontent.com/52395699/84597133-9ff53580-ae9c-11ea-8262-a1428260b78b.PNG">
- <img width="200" src ="https://user-images.githubusercontent.com/52395699/84597134-a1266280-ae9c-11ea-8165-d4d75f32fc0b.PNG">
- <img width="200" src ="https://user-images.githubusercontent.com/52395699/84597135-a1bef900-ae9c-11ea-9161-0e69681ced92.PNG">
- <img width="200" src ="https://user-images.githubusercontent.com/52395699/84597136-a2f02600-ae9c-11ea-9c7e-a15e9c58ff9e.PNG">
+ <img width="205" src ="https://user-images.githubusercontent.com/52395699/84597128-9bc91800-ae9c-11ea-829c-2f361c104d47.PNG">
+ <img width="205" src ="https://user-images.githubusercontent.com/52395699/84597130-9cfa4500-ae9c-11ea-9aa3-c6ae95db34f3.PNG">
+ <img width="205" src ="https://user-images.githubusercontent.com/52395699/84597131-9e2b7200-ae9c-11ea-8e2e-5aeff10ec05a.PNG">
+ <img width="205" src ="https://user-images.githubusercontent.com/52395699/84597132-9f5c9f00-ae9c-11ea-8ff9-e798d0f922c8.PNG">
+ <img width="205" src ="https://user-images.githubusercontent.com/52395699/84597133-9ff53580-ae9c-11ea-8262-a1428260b78b.PNG">
+ <img width="205" src ="https://user-images.githubusercontent.com/52395699/84597134-a1266280-ae9c-11ea-8165-d4d75f32fc0b.PNG">
+ <img width="205" src ="https://user-images.githubusercontent.com/52395699/84597135-a1bef900-ae9c-11ea-9161-0e69681ced92.PNG">
+ <img width="205" src ="https://user-images.githubusercontent.com/52395699/84597136-a2f02600-ae9c-11ea-9c7e-a15e9c58ff9e.PNG">
 </div>
